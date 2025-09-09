@@ -1,0 +1,18 @@
+body{
+    font-family: Arial,sans-serif;
+    text-align: center;
+    background-color: #f5f5f5; 
+    color: #333;
+ }
+
+h1{
+  color: teal;
+}
+
+button {
+   padding: 10px 20px;
+   background-color: teal;
+   color:■white;
+   border: none;
+   cursor: pointer;
+}
